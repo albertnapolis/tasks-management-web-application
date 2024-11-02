@@ -1,0 +1,43 @@
+[
+	{
+		"link_id": 1, 
+		"link_name": "Core Tech Threat Infra Team",
+		"link": "https://teams.microsoft.com/l/team/19%3a6a488e9974ff43e394cefa606e585921%40thread.tacv2/conversations?groupId=70208cab-90ad-4518-9098-2045421cf3a9&tenantId=3e04753a-ae5b-42d4-a86d-d6f05460f9e4"
+	},
+	{	"link_id": 2, 
+		"link_name": "MS Team General Channel",
+		"link": "https://teams.microsoft.com/l/channel/19%3a6a488e9974ff43e394cefa606e585921%40thread.tacv2/General?groupId=70208cab-90ad-4518-9098-2045421cf3a9&tenantId=3e04753a-ae5b-42d4-a86d-d6f05460f9e4"
+	},
+	{	"link_id": 3, 
+		"link_name": "MS Team Announcement Channel",
+		"link": "https://teams.microsoft.com/l/channel/19%3a4f8d601b4c5f47d780ea965d95692f5c%40thread.tacv2/announcement?groupId=70208cab-90ad-4518-9098-2045421cf3a9&tenantId=3e04753a-ae5b-42d4-a86d-d6f05460f9e4"
+	},
+	{	"link_id": 4, 
+		"link_name": "Self Introduction Slide",
+		"link": "https://teams.microsoft.com/l/file/ba3c7ab6-431a-4e79-91ed-5d3be71a8d62?tenantId=3e04753a-ae5b-42d4-a86d-d6f05460f9e4&fileType=pptx&objectUrl=https%3A%2F%2Ftrendmicro.sharepoint.com%2Fsites%2FDWorks717%2FShared%20Documents%2FGeneral%2FJessica%20Palafox%20Introduction.pptx&baseUrl=https%3A%2F%2Ftrendmicro.sharepoint.com%2Fsites%2FDWorks717&serviceName=teams&threadId=19:181fb7a564af460c8c57a88dec03610c@thread.skype&messageId=1595315669681&groupId=7d7e8bde-4dfb-4cef-be3e-0c023e3eaaa7"
+	},
+	{	"link_id": 5, 
+		"link_name": "Security Policies",
+		"link": "https://wiki.jarvis.trendmicro.com/pages/viewpage.action?pageId=1647051615"
+	},
+	{	"link_id": 6, 
+		"link_name": "2020 PH Malware Training",
+		"link": "https://securityclass.trendmicro.com/moodle/course/view.php?id=34"
+	},
+	{	"link_id": 7, 
+		"link_name": "Introduction to RMS",
+		"link": "https://securityclass.trendmicro.com/moodle/course/view.php?id=49"
+	},
+	{	"link_id": 8, 
+		"link_name": "2020 PH Data Privacy Training",
+		"link": "https://securityclass.trendmicro.com/moodle/course/view.php?id=30"
+	},
+	{	"link_id": 9, 
+		"link_name": "Information Security Policy",
+		"link": "https://securityclass.trendmicro.com/moodle/course/view.php?id=4"
+	},
+	{	"link_id": 10, 
+		"link_name": "Core Tech 101",
+		"link": "https://trendmicro.atlassian.net/wiki/spaces/F2/pages/240854276"
+	}
+]

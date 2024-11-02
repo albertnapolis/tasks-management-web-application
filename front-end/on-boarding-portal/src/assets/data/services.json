@@ -1,0 +1,56 @@
+[
+	{
+		"service_id": 1,
+		"service_name": "Jarvis",
+		"service_description": "This is where engineers can file request to either Global IT, BA or Admin",
+		"link": "http://jarvis.trendmicro.com/"
+	},
+	{
+		"service_id": 2,
+		"service_name": "Trend Glossary",
+		"service_description": "Contains the different terminologies a Trender would have to be familiar with",
+		"link": "https://trendmicro.atlassian.net/wiki/spaces/acronym"
+	},
+	{
+		"service_id": 3,
+		"service_name": "AAD",
+		"service_description": "",
+		"link": "https://aad.trendmicro.com/idp-initiate/index.html"
+	},
+	{
+		"service_id": 4,
+		"service_name": "GitHub",
+		"service_description": "Repository of our codes",
+		"link": "http://adc.github.trendmicro.com/"
+	},
+	{
+		"service_id": 5,
+		"service_name": "Change Management Portal",
+		"service_description": "Engineers who will deploy their system to production network would need to file RFC (Request for Change) as part of our engineering practice",
+		"link": "https://cmportal.trendmicro.com/"
+	},
+	{
+		"service_id": 6,
+		"service_name": "My Workday",
+		"service_description": "This contains your employee profile in Trend.  You will need to use this for periodic Check-in's and Feedback plus some mandatory HR policy compliance. This site will also be used for leaves, time correction and for checking your schedule",
+		"link": "https://wd3.myworkday.com/trendmicro/d/home.htmld"
+	},
+	{
+		"service_id": 7,
+		"service_name": "Timelogs",
+		"service_description": "This portal is used for logging your time-in and out.  It also includes the daily health checking report that everyone needs to submit daily.",
+		"link": "https://timelog.trendmicro.com.ph/Login.aspx"
+	},
+	{
+		"service_id": 8,
+		"service_name": "Payroll",
+		"service_description": "This is where you will see the breakdown of your salary and compensation.",
+		"link": "https://hrisv2.trendmicro.com.ph/compensationsummary/"
+	},
+	{
+		"service_id": 9,
+		"service_name": "BPM",
+		"service_description": "This portal is used for employee reimbursement or any needed IT purchase requests",
+		"link": "https://bpm.jarvis.trendmicro.com/ComboSearch/Query"
+	}
+]
